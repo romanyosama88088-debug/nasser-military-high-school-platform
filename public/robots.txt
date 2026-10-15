@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://nasser-military-platform.netlify.app/sitemap.xml
